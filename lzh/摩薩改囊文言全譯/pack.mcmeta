@@ -1,7 +1,9 @@
 {
   "pack": {
-    "description": "以是譯摩薩諸改囊，§6Koolhaas§r主譯。字串繁多，尚未大成，尊君且諒。",
-    "pack_format": 64,
-    "supported_formats": [34,64]
+    "description": "以是譯摩挲諸改囊，字串繁多，尚未大成，尊君且諒。§6Koolhaas§r主譯。",
+    "pack_format": 75.0,
+    "supported_formats": [34,64],
+    "min_format": 34,
+    "max_format": [76.0, 0]
   }
 }
