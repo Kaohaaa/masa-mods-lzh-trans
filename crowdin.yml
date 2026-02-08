@@ -1,3 +1,3 @@
 files:
   - source: /sources/
-    translation: 摩薩改囊文言全譯/assets/%file_name%/%two_letters_code%.json
+    translation: resources/assets/%file_name%/lang/%two_letters_code%.json
