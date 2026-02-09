@@ -1,0 +1,95 @@
+{
+    "name": "摩挲改囊文言全譯 顶级成员报告",
+    "url": "https://crowdin.com/project/masa-mods-lzh-trans",
+    "unit": "words",
+    "dateRange": {
+        "from": "2025-08-14T00:00:00-04:00",
+        "to": "2026-02-08T23:59:59-05:00"
+    },
+    "language": "All",
+    "data": [
+        {
+            "user": {
+                "id": "16602813",
+                "username": "Koolhaas",
+                "fullName": "Koolhaas",
+                "avatarUrl": "https://crowdin-static.cf-downloads.crowdin.com/avatar/16602813/medium/0cd60ae5a6921f1ba8cb2b19162d602e.jpg",
+                "joined": "2025-08-14 01:24:13"
+            },
+            "languages": [
+                {
+                    "id": "lzh",
+                    "name": "Literary Chinese"
+                }
+            ],
+            "translated": 16341,
+            "target": 20717,
+            "approved": 2461,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 2,
+            "winning": 2353
+        },
+        {
+            "user": {
+                "id": "15710679",
+                "username": "Bei_Dou",
+                "fullName": "Bei_Dou",
+                "avatarUrl": "https://crowdin-static.cf-downloads.crowdin.com/avatar/15710679/medium/f474b09e5ec984145e648d11e24add9c_default.png",
+                "joined": "2025-08-14 03:18:40"
+            },
+            "languages": [
+                {
+                    "id": "lzh",
+                    "name": "Literary Chinese"
+                }
+            ],
+            "translated": 172,
+            "target": 203,
+            "approved": 0,
+            "voted": 4,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 43
+        },
+        {
+            "user": {
+                "id": "15736761",
+                "username": "Rain_Flying",
+                "fullName": "Rain_Flying",
+                "avatarUrl": "https://crowdin-static.cf-downloads.crowdin.com/avatar/15736761/medium/ac803b94f7566e9add90bf1c53acd4c3.png",
+                "joined": "2025-10-25 08:44:59"
+            },
+            "languages": [
+                {
+                    "id": "lzh",
+                    "name": "Literary Chinese"
+                }
+            ],
+            "translated": 61,
+            "target": 104,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 55
+        },
+        {
+            "user": {
+                "id": "15691355",
+                "username": "Don-Trueno",
+                "fullName": "Don Trueno (Don-Trueno)",
+                "avatarUrl": "https://crowdin-static.cf-downloads.crowdin.com/avatar/15691355/medium/3bb90b939c812c3e2401c130229ea2cc.png",
+                "joined": "2025-08-14 03:03:39"
+            },
+            "languages": [],
+            "translated": 0,
+            "target": 0,
+            "approved": 0,
+            "voted": 0,
+            "positiveVotes": 0,
+            "negativeVotes": 0,
+            "winning": 0
+        }
+    ]
+}
