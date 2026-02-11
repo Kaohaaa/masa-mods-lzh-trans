@@ -1,6 +1,10 @@
 # Changelog
 这里是更新日志。
 
+## B1.1.0
+- 更新了一些翻译
+- 更新了 `pack.mcmeta`
+
 ## R1.0
 - 这是本翻译包**第一个正式版**。
 - 修改了``pack.png``和``pack.mcmeta``。
