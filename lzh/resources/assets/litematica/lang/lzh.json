@@ -85,6 +85,7 @@
     "litematica.config.generic.comment.easyPlaceMode": "啟之而向蜃塊，且試施物置塊，自將置於其位",
     "litematica.config.generic.comment.easyPlacePostRewrite": "啟之則習易置「覆寫」之式\n於一點一二版Ornithe之碼。\n§6誡！§r§6§l惟可一試耳§r§r",
     "litematica.config.generic.comment.easyPlaceProtocolVersion": "所用易置之法：\n- 自取：獨戲則用v3，眾戲則用惟版。\n  若伺服器載「氍毹」改囊且傳令曰「carpet:hello」則用v2於是伺服器。\n- v3：「清影」改囊之內成，抑有「伺服司」之助。\n- v2：載「氍毹」改囊者皆可用之，（需有「精審置塊」之規在先）。\n- 惟版：惟繕頂版。可用於紙鳶端。\n- 無：弗改座標。",
+    "litematica.config.generic.comment.easyPlaceSinglePlayerHandling": "啟之則「清影」自理「氍毹改囊精審置塊之法」於獨戲。\n若擬便捷放置於獨戲，宜恆啟之。",
     "litematica.config.generic.comment.easyPlaceSinglePlayerValidation": "啟[易置獨戲塊驗]。",
     "litematica.config.generic.comment.easyPlaceSwapInterval": "易置之間歇，以秒計。\n易行囊之槽、置塊方之屬者，皆待以其時。\n如遇遲宕，啟之是術，可辟誤置，實爲大益。",
     "litematica.config.generic.comment.easyPlaceSwingHand": "用易置而揮戲者之臂。",
