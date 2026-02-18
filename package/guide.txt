@@ -1,0 +1,4 @@
+To build resources quickly, you can do these two commands:
+
+cd package
+python package.py ../lzh/resources
