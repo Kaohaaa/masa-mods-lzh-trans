@@ -3,5 +3,5 @@
     "version": "1.1",
     "type": "B",
     "output_dir": "../versions/beta",
-    "output_name": "{name}_{type}{version}.{timestamp}.zip"
+    "output_name": "{name} {type}{version}.{timestamp}.zip"
 }
