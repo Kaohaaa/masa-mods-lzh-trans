@@ -22,7 +22,7 @@ def package(dirname):
     os.makedirs(output_dir, exist_ok=True)
 
     params_for_format = dict(params)
-    params_for_format['timestamp'] = datetime.datetime.now().strftime('%Y%m%d%H%M')
+    params_for_format['timestamp'] = datetime.datetime.now().strftime('%y%m%d')
 
     try:
         output_name = output_name_tpl.format(**params_for_format)
