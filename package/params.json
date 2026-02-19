@@ -2,6 +2,6 @@
     "name": "摩挲改囊文言全譯",
     "version": "1.1",
     "type": "B",
-    "output_dir": "../versions/beta",
+    "output_dir": "../versions/prereleases",
     "output_name": "{name} {type}{version}.{timestamp}.zip"
 }
