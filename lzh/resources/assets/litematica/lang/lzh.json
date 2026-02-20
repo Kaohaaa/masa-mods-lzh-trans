@@ -250,6 +250,7 @@
     "litematica.config.hotkeys.comment.pickBlockFirst": "此鍵用以取\n所向蜃塊之最近者",
     "litematica.config.hotkeys.comment.pickBlockToggle": "迭[取塊之迭]之捷鍵於貫用配置。\n若捷鍵紊，則所以速啟禁取塊鍵。",
     "litematica.config.hotkeys.comment.renderInfoOverlay": "啟塊訊覆層之鍵。\n以「NONE」示鍵之不需者，可設「允空鍵」於精進鍵設。\n禁名似之項於「觀」以禁覆層。\n§6註：此術須藉「伺服司」啟[§d同調實體錄§6]於伺服器以用。§r",
+    "litematica.config.hotkeys.comment.renderOverlayThroughBlocks": "俾透塊繪疊層之捷鍵。\n夫斯術者，翕暫啟透繪。\n此猶[蜃圖透視之繪]之所爲，可見於「觀」。",
     "litematica.config.hotkeys.comment.rerenderSchematic": "重整、重繪蜃圖之捷鍵\n而無須以F3 + A重繪地勢",
     "litematica.config.hotkeys.comment.saveAreaAsInMemorySchematic": "存所擇選區至憶",
     "litematica.config.hotkeys.comment.saveAreaAsSchematicToFile": "存所擇選區之蜃圖入案",
