@@ -23,7 +23,7 @@
 1. 确保您的Minecraft装载了MASA系列模组。
 2. 下载该项目最新的翻译包。
 3. 将翻译包拖入"resoucepacks"文件夹并装载。
-4. _将您的Minecraft游戏语言调整为_**```文言(華夏)```**_。若无法生效大多是这一步忘了。_
+4. 将您的Minecraft游戏语言调整为```文言(華夏)```。若无法生效大多是这一步忘了。
 5. 锵锵！不出意外的话，您的MASA模组此时已翻译成文言了吧。可以按下```M```键打开Litematica的菜单检验。
 
 ## 版本命名规则
@@ -78,12 +78,12 @@
 - 使用了§等格式化代码而显示不正确
 ## 进度
   [![lzh translation](https://img.shields.io/badge/dynamic/json?color=00af5c&label=翻译包总进度&style=flat&logo=crowdin&query=%24.progress.0.data.translationProgress&url=https%3A%2F%2Fbadges.awesome-crowdin.com%2Fstats-16602813-819398.json)](https://crowdin.com/project/masa-mods-lzh-trans)
-  
-  ![Static Badge](https://img.shields.io/badge/Litematica-80%25-00af5c?logo=Crowdin)
-  ![Static Badge](https://img.shields.io/badge/MaLiLib-33%25-00af5c?logo=Crowdin)
-  ![Static Badge](https://img.shields.io/badge/MiniHUD-2%25-00af5c?logo=Crowdin)
-  ![Static Badge](https://img.shields.io/badge/Servux-23%25-00af5c?logo=Crowdin)
-  ![Static Badge](https://img.shields.io/badge/Tweakeroo-4%25-00af5c?logo=Crowdin)
+  <br>
+  ![Static Badge](https://img.shields.io/badge/Litematica-84%25-00af5c?logo=Crowdin)
+  ![Static Badge](https://img.shields.io/badge/MaLiLib-27%25-00af5c?logo=Crowdin)
+  ![Static Badge](https://img.shields.io/badge/MiniHUD-1%25-00af5c?logo=Crowdin)
+  ![Static Badge](https://img.shields.io/badge/Servux-20%25-00af5c?logo=Crowdin)
+  ![Static Badge](https://img.shields.io/badge/Tweakeroo-3%25-00af5c?logo=Crowdin)
  
 
   <a href="https://crowdin.com/?utm_term=click-badge-add-on" rel="nofollow"><img style="width:140;height:40px" src="https://badges.crowdin.net/badge/light/crowdin-on-dark.png" srcset="https://badges.crowdin.net/badge/light/crowdin-on-dark.png 1x,https://badges.crowdin.net/badge/light/crowdin-on-dark@2x.png 2x" alt="Crowdin | Agile localization for tech companies" /></a>
