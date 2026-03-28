@@ -1,6 +1,6 @@
 {
   "pack": {
-    "description": "以是譯摩挲諸改囊，§6Koolhaas§r主譯。字串繁多，尚未大成，尊君且諒。",
+    "description": [{"text":"所以譯摩挲諸改囊，"},{"text":"Koolhaas","color":"gold"},{"text":"主譯。字串繁多，尚未大成，尊君且諒。"}],
     "pack_format": 75.0,
     "supported_formats": [34, 64],
     "min_format": 34,
