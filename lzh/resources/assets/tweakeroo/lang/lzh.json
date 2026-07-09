@@ -1,5 +1,8 @@
 {
-    "modmenu.descriptionTranslation.tweakeroo": "廣增客端可配之調者。",
+    "modmenu.descriptionTranslation.tweakeroo": "廣增客端可配之調者",
+    "tweakeroo.config.generic.name.translationMode": "譯式",
+    "tweakeroo.config.generic.name.translationLanguage": "譯文",
+    "tweakeroo.config.generic.name.translationTryBaseLanguage": "隨摩輕庫之譯",
     "tweakeroo.config.disable.comment.disableArmorStandRendering": "禁全甲桁之繪",
     "tweakeroo.config.disable.comment.disableAtmosphericFog": "禁戲者與繪邊霧間之全景霧。",
     "tweakeroo.config.disable.comment.disableAxeStripping": "禁斧扡樁木",

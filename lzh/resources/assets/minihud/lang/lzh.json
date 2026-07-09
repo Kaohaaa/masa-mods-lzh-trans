@@ -1,6 +1,9 @@
 {
     "malilib.gui.button.render_layers_gui.set_to_player": "移置戲者",
     "minihud.config.info_toggle.name.infoBiome": "生態域訊",
+    "minihud.config.render_toggle.comment.debugEntityHitboxes": "迭實體方寸匡勘誤繪器",
+    "minihud.config.render_toggle.name.debugEntityHitboxes": "勘誤實體方寸匡",
+    "minihud.config.render_toggle.prettyName.debugEntityHitboxes": "勘誤實體方寸匡",
     "minihud.config.render_toggle.prettyName.debugStructuresEnabled": "構造",
     "minihud.config.render_toggle.prettyName.debugVillageEnabled": "鄉",
     "minihud.config.structure_toggle.name.ancient_city": "太古之邑",
@@ -53,6 +56,7 @@
     "minihud.gui.name.box.box_side.south": "南",
     "minihud.gui.name.box.box_side.west": "西",
     "minihud.gui.title.configs": "「眇訊」配置 - %s §6Koolhaas§r§l文言§r主譯",
+    "minihud.gui.title.shape_manager": "司形",
     "minihud.hotkeys.category.generic_hotkeys": "貫用捷鍵",
     "minihud.info_line.biome": "生態域：%s",
     "minihud.info_line.coordinates_scaled.nether": "焱界：",
