@@ -1,6 +1,10 @@
 # Changelog
 这里是更新日志。
 
+## R1.3
+- 更新了一些翻译。
+- 更新了`pack.mcmeta`以支持 Minecraft 26.1 版本。
+
 ## R1.2
 - 更新了一些翻译。
 - 更改了`pack.mcmeta`以修复一个已知问题。
