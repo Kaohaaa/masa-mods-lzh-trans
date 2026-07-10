@@ -68,11 +68,13 @@
     "minihud.info_line.facing.south.name": "南",
     "minihud.info_line.facing.west.name": "西",
     "minihud.info_line.fps": "%d幀",
+    "minihud.info_line.invalid_value": "無效",
     "minihud.info_line.looking_at_effects.infinite": "無窮",
     "minihud.info_line.looking_at_entity": "實體：%s",
     "minihud.info_line.panda_gene.gene.normal": "凡",
     "minihud.info_line.slime_chunk.no": "§c§l否§r§r",
     "minihud.info_line.slime_chunk.yes": "§a§l然§r§r",
     "minihud.info_line.weather": "天象：%s%s",
+    "minihud.label.worker_profile.potato": "濫芋",
     "modmenu.descriptionTranslation.minihud": "訊息行皆可配置，覆繪器亦有百種"
 }
