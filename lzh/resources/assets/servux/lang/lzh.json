@@ -1,5 +1,5 @@
 {
-    "servux.command.config.invalid_language": "文不堪用：%s",
+    "servux.command.config.invalid_language": "無效譯文：%s",
     "servux.command.config.reloaded": "配置復載矣！",
     "servux.command.config.saved": "配置存矣！",
     "servux.command.config.set_value": "設%s爲%s",
@@ -24,7 +24,7 @@
     "servux.config.hud_data.logger_permission_level.name": "誌錄器權術",
     "servux.config.hud_data.loggers_enable_list.name": "誌錄器表",
     "servux.config.hud_data.loggers_enabled.comment": "可誌錄，如計刻、計獸",
-    "servux.config.hud_data.loggers_enabled.name": "誌錄器啟",
+    "servux.config.hud_data.loggers_enabled.name": "啟誌錄器",
     "servux.config.hud_data.permission_level.name": "權術之階",
     "servux.config.hud_data.seed_permission_level.name": "世種權術",
     "servux.config.hud_data.share_seed.name": "述世種",
