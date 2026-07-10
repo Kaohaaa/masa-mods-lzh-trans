@@ -1,5 +1,7 @@
 {
-    "malilib.gui.button.render_layers_gui.set_to_player": "移置戲者",
+    "minihud.config.generic.name.translationLanguage": "譯文",
+    "minihud.config.generic.name.translationMode": "譯式",
+    "minihud.config.generic.name.translationTryBaseLanguage": "隨摩輕庫之譯",
     "minihud.config.info_toggle.name.infoBiome": "生態域訊",
     "minihud.config.render_toggle.comment.debugEntityHitboxes": "迭實體方寸匡勘誤繪器",
     "minihud.config.render_toggle.name.debugEntityHitboxes": "勘誤實體方寸匡",
