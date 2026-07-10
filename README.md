@@ -1,13 +1,13 @@
 > 喜报：<br>
-本翻译包已被Litematica维护者Sakura Ryoko合并！
-这意味着，对于新版本日后不必下载本资源包，也可以使用Litematica文言翻译了（
+本翻译包已被 Litematica 维护者 Sakura Ryoko 合并！
+这意味着，对于新版本日后不必下载本资源包，也可以使用 Litematica 文言翻译了（
 [查看详情](https://github.com/sakura-ryoko/litematica/pull/284)）。
 <br>不过，对于老版本的Masa系列模组，仍然需要翻译包的支持。
 
 ## 简介
 > 注意：这**不是简体中文**翻译！！！如果你想要简体中文或繁体中文翻译，建议[点击此处](https://modrinth.com/resourcepack/masa-mod-translationpack)。
 
-这是一份**文言**翻译资源包，用于填补MASA系列模组缺少文言的空白，目前翻译进度较低。
+这是一份**文言**翻译资源包，用于填补 Masa 系列模组缺少文言的空白，目前翻译进度较低。
 
 ~~如果你是一个生电大佬，非常熟悉MASA系列模组，觉得原版的MASA系列模组还是太好用了的话，可以尝试下载这个资源包来抹平您的大脑皮层（笑）你也可以把这个翻译包假扮成其他资源包后发给你的朋友，硬控他们几分钟。~~
 
@@ -20,11 +20,14 @@
 |**調祛術**|Tweakeroo|[Modrinth](https://modrinth.com/mod/tweakeroo)|
 
 ## 如何使用
-1. 确保您的Minecraft装载了MASA系列模组。
+1. 确保您的 Minecraft 装载了 Masa 系列模组。
 2. 下载该项目最新的翻译包。
 3. 将翻译包拖入"resoucepacks"文件夹并装载。
-4. 将您的Minecraft游戏语言调整为```文言(華夏)```。若无法生效大多是这一步忘了。
-5. 锵锵！不出意外的话，您的MASA模组此时已翻译成文言了吧。可以按下```M```键打开Litematica的菜单检验。
+4. 将您的 Minecraft 游戏语言调整为```文言(華夏)```。若无法生效大多是这一步忘了。
+5. 锵锵！不出意外的话，您的 Masa 模组此时已翻译成文言了吧。可以按下```M```键打开 Litematica 的菜单检验。
+
+
+注: 由于新版本的 Masa 模组加入了翻译覆盖功能（即`translationOverides`），会覆盖原版的资源包翻译。因此在新版本中，你需要在 MiniHUD 中把该功能设置为`False`才能正常加载此翻译包。
 
 ## 版本命名规则
 <details>
@@ -42,12 +45,12 @@
 
    |序号|达成标志|大版本号|情况|
    |---|---|---|---|
-   |1|资源包被Sakura合并|1.0|√已达成|
-   |2|完成Litematica翻译|2.0|×未达成|
-   |3|完成MaLiLib翻译|3.0|×未达成|
-   |4|完成Tweakeroo翻译|4.0|×未达成|
-   |5|完成MiniHUD翻译|5.0|×未达成|
-   |6|完成Servux翻译|6.0|×未达成|
+   |1|资源包被 Sakura 合并|1.0|√已达成|
+   |2|完成 Litematica 翻译|2.0|×未达成|
+   |3|完成 MaLiLib 翻译|3.0|×未达成|
+   |4|完成 Tweakeroo 翻译|4.0|×未达成|
+   |5|完成 MiniHUD 翻译|5.0|×未达成|
+   |6|完成 Servux 翻译|6.0|×未达成|
    |敬请期待|……|……|……|
 
   3. 测试版命名规则如下
@@ -58,15 +61,15 @@
 
      其中`version`为对应预发布的正式版本号。`timestamp`为构建时间。
 
-     > 注意，早期Alpha测试版以`摩挲改囊文言全譯 A{version}.zip`命名。因为之后不再会有Alpha版本（只有Beta版本），所以这种方式将不再使用。
+     > 注意，早期 Alpha 测试版以`摩挲改囊文言全譯 A{version}.zip`命名。因为之后不再会有 Alpha 版本（只有 Beta 版本），所以这种方式将不再使用。
     
 希望这能帮助你更好理解并下载本翻译包。
 </details>
 
 ## 贡献
-发现大量词条未翻译/错误？想要参与翻译？[点击这里进入Crowdin参与翻译](https://zh.crowdin.com/project/masa-mods-lzh-trans)！（审核通过方可翻译）
+发现大量词条未翻译/错误？想要参与翻译？[点击这里进入 Crowdin 参与翻译](https://zh.crowdin.com/project/masa-mods-lzh-trans)！（审核通过方可翻译）
 
-若发现有以下情况，请报告到[项目Issue](https://github.com/Kaohaaa/masa-mods-lzh-trans/issues)：
+若发现有以下情况，请报告到[项目 Issue](https://github.com/Kaohaaa/masa-mods-lzh-trans/issues)：
 - 文不对意
 - 用字讹误
 - 翻译错用

@@ -1,6 +1,6 @@
 {
     "name": "摩挲改囊文言全譯",
-    "version": "1.2",
+    "version": "1.3",
     "type": "R",
     "output_dir": "../versions/prereleases",
     "output_name": "{name} {type}{version}.{timestamp}.zip"
