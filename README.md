@@ -1,8 +1,8 @@
 > 喜报：<br>
-本翻译包已被 Litematica 维护者 Sakura Ryoko 合并！
-这意味着，对于新版本日后不必下载本资源包，也可以使用 Litematica 文言翻译了（
+本翻译包已被 Masa 维护者 Sakura Ryoko 合并！
+这意味着，对于新版本日后不必下载本资源包，也可以使用 Masa 文言翻译了（
 [查看详情](https://github.com/sakura-ryoko/litematica/pull/284)）。
-<br>不过，对于老版本的Masa系列模组，仍然需要翻译包的支持。
+<br>不过，对于老版本的 Masa 系列模组，仍然需要翻译包的支持。
 
 ## 简介
 > 注意：这**不是简体中文**翻译！！！如果你想要简体中文或繁体中文翻译，建议[点击此处](https://modrinth.com/resourcepack/masa-mod-translationpack)。
