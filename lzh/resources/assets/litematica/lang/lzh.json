@@ -174,7 +174,7 @@
     "litematica.config.generic.name.entityDataSyncCacheTimeout": "同調實體錄快取期限",
     "litematica.config.generic.name.entityDataSyncLoadNbt": "同調實體錄載名錄籤",
     "litematica.config.generic.name.executeRequireHoldingTool": "施行需工具",
-    "litematica.config.generic.name.fixChestMirror": "繕箱之境象",
+    "litematica.config.generic.name.fixChestMirror": "繕箱之鏡象",
     "litematica.config.generic.name.fixRailRotation": "繕旋軌",
     "litematica.config.generic.name.fixStairsMirror": "繕階梯鏡象",
     "litematica.config.generic.name.generateLowercaseNames": "題小寫之名",
